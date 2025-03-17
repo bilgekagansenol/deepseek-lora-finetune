@@ -1,0 +1,13 @@
+transformers
+peft
+datasets
+torch
+pandas
+numpy
+scipy
+scikit-learn
+huggingface_hub
+accelerate
+bitsandbytes
+trl
+pickle-mixin
